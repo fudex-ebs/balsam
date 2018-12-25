@@ -1,0 +1,152 @@
+[24-Sep-2017 18:31:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4741
+[24-Sep-2017 18:31:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4741
+[24-Sep-2017 18:32:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4741
+[24-Sep-2017 18:33:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4741
+[24-Sep-2017 18:34:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4723
+[24-Sep-2017 18:34:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4723
+[24-Sep-2017 18:40:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4741
+[24-Sep-2017 18:42:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4725
+[25-Sep-2017 12:11:07 UTC] PHP Fatal error:  Class 'App\Users' not found in /home/fudexsb/public_html/demo/balsam/app/Http/routes.php on line 190
+[25-Sep-2017 12:15:42 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:25:02 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:25:05 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:25:06 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:25:06 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:27:22 UTC] PHP Fatal error:  Class 'App\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:27 UTC] PHP Fatal error:  Class 'App\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:54 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:55 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:56 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:58 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:58 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:29:59 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:00 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:29 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:30 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:30 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:31 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:31 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:31 UTC] PHP Fatal error:  Class 'app\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:51 UTC] PHP Fatal error:  Class 'About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:30:52 UTC] PHP Fatal error:  Class 'About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:37:01 UTC] PHP Fatal error:  Class 'App\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:39:09 UTC] PHP Fatal error:  Class '../About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:39:10 UTC] PHP Fatal error:  Class '../About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:39:11 UTC] PHP Fatal error:  Class '../About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:39:11 UTC] PHP Fatal error:  Class '../About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:39:12 UTC] PHP Fatal error:  Class '../About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:40:29 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/App\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:03 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:05 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:06 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:06 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:06 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:07 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:41:07 UTC] PHP Fatal error:  Class '/home/fudexsb/public_html/demo/balsam/app/About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:42:44 UTC] PHP Fatal error:  Class 'App\About.php' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 35
+[25-Sep-2017 12:44:30 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:45:03 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[25-Sep-2017 12:45:05 UTC] PHP Fatal error:  Class 'App\roduct' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 34
+[28-Sep-2017 18:38:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/AdminController.php on line 390
+[01-Oct-2017 13:15:19 UTC] PHP Fatal error:  Class 'App\Notification' not found in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/AdminController.php on line 551
+[03-Oct-2017 13:56:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/mpdf/mpdf/classes/ttfontsuni.php on line 4725
+[08-Oct-2017 12:32:37 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\JsonResponse::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[08-Oct-2017 12:32:47 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\JsonResponse::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[08-Oct-2017 12:32:54 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\JsonResponse::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[08-Oct-2017 12:33:00 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\JsonResponse::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[08-Oct-2017 12:33:12 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\JsonResponse::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[08-Oct-2017 12:33:52 UTC] PHP Fatal error:  Call to undefined method Illuminate\Http\Response::heade() in /home/fudexsb/public_html/demo/balsam/app/Http/Middleware/Cors.php on line 19
+[12-Oct-2017 07:31:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:31:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:32:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:32:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:32:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:34:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:35:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:35:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[12-Oct-2017 07:35:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1912795 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:42:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:43:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:43:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:47:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:47:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:48:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 13:49:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1969189 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[14-Oct-2017 15:05:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1932184 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[16-Oct-2017 08:49:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1932184 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[19-Oct-2017 16:37:24 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:37:42 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:37:48 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:37:49 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:37:50 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:39:26 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:39:30 UTC] PHP Fatal error:  Call to a member function toSql() on array in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 149
+[19-Oct-2017 16:50:46 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:51:28 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:51:34 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:51:36 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:51:53 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:51:55 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::where() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 141
+[19-Oct-2017 16:52:16 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::toSql() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 148
+[19-Oct-2017 16:52:18 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::toSql() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 148
+[19-Oct-2017 16:52:20 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::toSql() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 148
+[19-Oct-2017 16:52:45 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::toSql() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 148
+[19-Oct-2017 16:52:46 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::toSql() in /home/fudexsb/public_html/demo/balsam/app/Http/Controllers/ApiController.php on line 148
+[31-Oct-2017 15:06:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[31-Oct-2017 15:06:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[31-Oct-2017 15:07:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[31-Oct-2017 15:10:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[31-Oct-2017 15:12:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[31-Oct-2017 15:21:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1971067 bytes) in /home/fudexsb/public_html/demo/balsam/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 649
+[06-May-2018 22:47:12 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:29 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:30 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:38 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:38 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:42 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:48:43 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:49:04 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:49:05 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:50:23 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:50:29 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:52:56 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 22:58:04 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:01:38 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:02:23 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:02:56 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:02:57 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:03:51 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:03:54 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:04:22 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:06:08 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:07:58 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:08:00 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:08:02 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:08:02 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:11:34 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\Agent' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 34
+[06-May-2018 23:12:08 UTC] PHP Fatal error:  Class 'jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:12:30 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\Agent' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 34
+[06-May-2018 23:12:31 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\Agent' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 34
+[06-May-2018 23:18:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\App' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 34
+[06-May-2018 23:18:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\App' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 34
+[06-May-2018 23:18:47 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 598
+[06-May-2018 23:18:48 UTC] PHP Fatal error:  Class 'Jenssegers\Agent\AgentServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 598
+[06-May-2018 23:20:45 UTC] PHP Fatal error:  Class 'Riverskies\Laravel\MobileDetect\MobileDetectServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[06-May-2018 23:44:05 UTC] PHP Fatal error:  Class 'Riverskies\Laravel\MobileDetect\MobileDetectServiceProvider' not found in /home/medicalbalsamcom/public_html/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[07-May-2018 00:07:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\File' not found in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 35
+[07-May-2018 00:10:50 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/medicalbalsamcom/public_html/app/Http/Controllers/HomeController.php on line 43
+[05-Nov-2018 18:00:07 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/medicalbalsamcom/public_html/beta2/storage/framework/views/41089d1280d3ad18ea929316b4e543321684dca2.php on line 31
